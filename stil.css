@@ -1,0 +1,17 @@
+p {color: dimgray;
+   font-family: Constantia, "Lucida Bright", "DejaVu Serif", "Georgia", "serif";
+   font-size: 16px;
+   line-height: 18px;
+   width: 600px;
+   background-color: burlywood;
+   padding: 20px;
+}
+h1, h2 {
+    font-family: Gotham; "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: cadetblue;
+    }
+span {color: rgb(255, 0, 255);}
+body {
+ background-color: blanchedalmond;
+ span {color: rgb(255, 0, 255);}
+}
